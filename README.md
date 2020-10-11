@@ -14,7 +14,7 @@
 
 - 노트북에 ubuntu 16.04를 설치하여 Linux 환경을 제공하는 host pc로 활용하였고, 터미널 편집기를 통하여 소스코드를 작성하였다. 모형자동차(target board)는 Embedded Linux 기반의 os 를 사용하며, serial 통신 및 ethernet 을 통해 host pc와 상호작용한다.
 
-<p align="center"><img ./image/Architecture.png="image_./image/Architecture.png"></p>
+<center><img src="./image/Architecture.png"></center>
 
 개발 환경 구조도
 
