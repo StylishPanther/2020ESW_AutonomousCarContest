@@ -14,7 +14,7 @@
 
 - 노트북에 ubuntu 16.04를 설치하여 Linux 환경을 제공하는 host pc로 활용하였고, 터미널 편집기를 통하여 소스코드를 작성하였다. 모형자동차(target board)는 Embedded Linux 기반의 os 를 사용하며, serial 통신 및 ethernet 을 통해 host pc와 상호작용한다.
 
-![Architecture](./image/Architecture.png)</p>
+<p ![Architecture](./image/Architecture.png)></p>
 
 개발 환경 구조도
 
@@ -26,7 +26,7 @@
 
 - 스레드간 메모리충돌을 막기 위해 mutex 잠금을 통해 동기화하였으며, 조건변수를 활용하여 스레드 간의 호출에 이용하였다. 이때 각 스레드는 블락되었다가 호출에따라 활성화를 반복한다 . 스레드는 capture_thread , sensor_thread 그리고 각 미션 스레드들로 구성된다.
 
-![Thread](./image/Thread.png)</p>
+<p ![Thread](./image/Thread.png)></p>
 
 **스레드 구조도**
 
@@ -36,7 +36,7 @@
 
 ### 3. 소프트웨어 구성
 
-![software](./image/software.png)</p>
+<p ![software](./image/software.png)></p>
 
 소프트웨어 구조도
 
@@ -54,9 +54,9 @@
 
 ## 개발 일정
 
-![calendar](./image/calendar.png)</p>
+<p ![calendar](./image/calendar.png)></p>
 
 
 ## 팀 업무 분장
 
-![part](./image/part.png)</p>
+<p ![part](./image/part.png)></p>
