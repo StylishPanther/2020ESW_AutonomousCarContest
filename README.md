@@ -61,4 +61,4 @@
 
 ## 팀 업무 분장
 
-[Untitled](https://www.notion.so/3587096ec506490bbe812b46f47bcf5f)
+![part](./image/part.png)
