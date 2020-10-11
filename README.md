@@ -26,7 +26,7 @@
 
 - 스레드간 메모리충돌을 막기 위해 mutex 잠금을 통해 동기화하였으며, 조건변수를 활용하여 스레드 간의 호출에 이용하였다. 이때 각 스레드는 블락되었다가 호출에따라 활성화를 반복한다 . 스레드는 capture_thread , sensor_thread 그리고 각 미션 스레드들로 구성된다.
 
-![Thread](./image/Thread.png)
+<p align="center"><img src="./image/Thread.png"></p>
 
 **스레드 구조도**
 
@@ -36,7 +36,7 @@
 
 ### 3. 소프트웨어 구성
 
-![software](./image/software.png)
+<p align="center"><img src="./image/software.png"></p>
 
 소프트웨어 구조도
 
@@ -54,9 +54,9 @@
 
 ## 개발 일정
 
-![calendar](./image/calendar.png)
+<p align="center"><img src="./image/calendar.png"></p>
 
 
 ## 팀 업무 분장
 
-![part](./image/part.png)
+<p align="center"><img src="./image/part.png"></p>
