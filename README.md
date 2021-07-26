@@ -23,8 +23,8 @@
 |김진성<br>(팀장)| 소프트웨어 구조 설계, 정지 장애물 알고리즘 구현 |
 |김종욱| 차선 인식 및 주행 알고리즘 구현, 회전 교차로 알고리즘 구현  |
 |박상재| 주차 및 주행 알고리즘 구현 |
-|이진호(https://github.com/StylishPanther)|전체 미션 알고리즘 통합 및 개발환경 구축 | 
-|고승일(https://github.com/gseung)|주행 알고리즘 및 개발환경 구축|   
+|[이진호](https://github.com/StylishPanther)|전체 미션 알고리즘 통합 및 개발환경 구축 | 
+|[고승일](https://github.com/gseung)|주행 알고리즘 및 개발환경 구축|   
 
 ## 동작 영상  
 
